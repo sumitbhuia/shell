@@ -21,7 +21,7 @@ git clone https://github.com/sumitbhuia/shell.git
 cd shell
 
 # Run the shell
-./my_shell
+./start.sh
 ```
 
 ## Usage
